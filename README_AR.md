@@ -225,3 +225,5 @@
 [ملف GitHub](https://github.com/malekjafar) · [LinkedIn](https://www.linkedin.com/in/malek-gamal-jaafer-a6a6013a4/) · [Code Circle](https://codecirclehq.com)
 
 </div>
+
+<!-- FSM Reporting Center — الملف التعريفي المهني للمشروع -->
