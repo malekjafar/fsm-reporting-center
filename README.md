@@ -119,23 +119,32 @@ This gives the project a strong business-oriented foundation: the objective is n
 
 ---
 
-## My Role
+## My Role & End-to-End Technical Ownership
 
-**Concept · Business Analysis · Solution Design · Development · Continuous Improvement**
+**Concept · Requirements & Business Analysis · Solution Design · Software Engineering · Hands-on Coding · Application Build · Testing & Validation · Operational Use · Troubleshooting · Maintenance · Continuous Improvement**
 
-My role in FSM Reporting Center covers the full journey from understanding operational needs to shaping them into a practical digital solution.
+My role in FSM Reporting Center is not limited to originating the idea or analyzing requirements. I am directly responsible for turning the operational concept into a working software solution and for carrying the project through its practical development lifecycle.
 
-The project reflects experience in:
+This includes hands-on responsibility for the **programming, code development, application build, functional implementation, testing, troubleshooting, operational use, maintenance, and continuous enhancement** of the system, while also retaining responsibility for the business and operational direction of the solution.
 
-- Translating real operational requirements into software concepts
-- Identifying opportunities for process improvement
-- Structuring operational information for clearer reporting
-- Designing practical business-oriented user experiences
-- Developing solutions intended for real working environments
-- Refining the system as operational requirements evolve
-- Balancing software development with business and operational priorities
+The project reflects end-to-end ownership across several areas:
 
-This combination of technical development and operational understanding is a central part of the project.
+- Identifying the original operational need and defining the purpose of the solution
+- Gathering, interpreting, and refining business and operational requirements
+- Translating those requirements into practical software features and user-facing behavior
+- Designing the overall user experience and functional structure at a business-solution level
+- Writing, organizing, maintaining, and evolving the application code required to deliver the solution
+- Building functional application versions and converting requirements into working software
+- Testing and validating functionality against real operational expectations
+- Diagnosing issues, debugging faults, and implementing corrective improvements
+- Operating and evaluating the solution in a real working context
+- Maintaining the application and improving reliability, usability, consistency, and performance over time
+- Implementing enhancements as business requirements and operational conditions evolve
+- Managing the continuous progression of the solution from concept through development, practical use, refinement, and further improvement
+
+The technical implementation itself remains private, but the project represents direct, hands-on software engineering work rather than concept ownership alone.
+
+This combination of **business understanding, software engineering, hands-on programming, operational deployment, and continuous improvement** is a core part of the value represented by FSM Reporting Center.
 
 ---
 
@@ -145,7 +154,9 @@ FSM Reporting Center demonstrates the ability to work across both **technology a
 
 From a professional portfolio perspective, the project represents experience in:
 
+- End-to-end software engineering and hands-on application development
 - Business-oriented software development
+- Programming, testing, troubleshooting, maintenance, and iterative enhancement
 - Operational process automation
 - Reporting and performance management
 - Requirements analysis
