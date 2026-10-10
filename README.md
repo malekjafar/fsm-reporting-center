@@ -4,6 +4,8 @@
 
 ### Operational Reporting & Management Solution
 
+🌐 **Language:** English · [العربية](./README_AR.md)
+
 ![Public Showcase](https://img.shields.io/badge/Public-Showcase-0969DA?style=for-the-badge)
 ![Private Implementation](https://img.shields.io/badge/Implementation-Private-6E7781?style=for-the-badge)
 ![No Source Code](https://img.shields.io/badge/Source%20Code-Not%20Published-6E7781?style=for-the-badge)
