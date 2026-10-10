@@ -216,3 +216,5 @@ The implementation itself remains private. This repository exists solely as a pu
 [GitHub Profile](https://github.com/malekjafar) · [LinkedIn](https://www.linkedin.com/in/malek-gamal-jaafer-a6a6013a4/) · [Code Circle](https://codecirclehq.com)
 
 </div>
+
+<!-- FSM Reporting Center — Professional Project Profile -->
